@@ -16,10 +16,10 @@ Naiya Shah <shah.naiya8291@gmail.com>
 
 Dependencies included till February 26th
 
-Dropwizard core
-Dropwizard views
-junit
-Freemarker
-Spark core
-Jersey JSON
+Dropwizard core,
+Dropwizard views,
+junit,
+Freemarker,
+Spark core,
+Jersey JSON,
 MongoDB JAVA Driver
